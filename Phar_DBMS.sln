@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phar_DBMS", "Phar_DBMS\Phar_DBMS.csproj", "{A0DC5A45-B5F5-4A22-8427-F9822A985756}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PharmactTests", "PharmactTests\PharmactTests.csproj", "{16F3B665-22B9-4CBC-A575-844907A283DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0DC5A45-B5F5-4A22-8427-F9822A985756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0DC5A45-B5F5-4A22-8427-F9822A985756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0DC5A45-B5F5-4A22-8427-F9822A985756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0DC5A45-B5F5-4A22-8427-F9822A985756}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16F3B665-22B9-4CBC-A575-844907A283DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16F3B665-22B9-4CBC-A575-844907A283DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16F3B665-22B9-4CBC-A575-844907A283DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16F3B665-22B9-4CBC-A575-844907A283DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {556E7A75-2157-4781-99B7-D2B954EE2818}
+	EndGlobalSection
+EndGlobal

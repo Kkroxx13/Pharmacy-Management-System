@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "+GxeaJLv9MAicMqtxAS1oEqrq675nbd4ucwJ8vZoAWk=",
+  "Source": "PharmactTests",
+  "BasePath": "_content/PharmactTests",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\kkancha\\source\\repos\\Phar_DBMS\\Phar_DBMS\\Phar_DBMS.csproj",
+      "Version": 2,
+      "Source": "Phar_DBMS",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Phar_DBMS.props" />
+</Project>
